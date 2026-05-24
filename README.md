@@ -1,6 +1,6 @@
 # AWS kubeadm module
 
-Terraform module for bootstrapping a Kubernetes cluster with kubeadm on AWS.
+YES Terraform module for bootstrapping a Kubernetes cluster with kubeadm on AWS.
 
 ## Contents
 
